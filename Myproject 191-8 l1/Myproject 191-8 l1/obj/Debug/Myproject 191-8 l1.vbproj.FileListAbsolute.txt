@@ -1,0 +1,14 @@
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\bin\Debug\Myproject 191-8 l1.exe.config
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\bin\Debug\Myproject 191-8 l1.exe
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\bin\Debug\Myproject 191-8 l1.pdb
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\bin\Debug\Myproject 191-8 l1.xml
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.vbprojAssemblyReference.cache
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject_191_8_l1.Form1.resources
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject_191_8_l1.Resources.resources
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.vbproj.GenerateResource.cache
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.vbproj.CoreCompileInputs.cache
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.exe
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.xml
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject 191-8 l1.pdb
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject_191_8_l1.Lab1.resources
+D:\1MPJ NA\Myproject 191-8 l1\Myproject 191-8 l1\obj\Debug\Myproject_191_8_l1.Lab2.resources
